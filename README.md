@@ -3,7 +3,7 @@
 ![ESP8266](https://img.shields.io/badge/Project-ESP8266%20All--in--One-blue)
 ![C++](https://img.shields.io/badge/Language-C++-yellow)
 ![HTML](https://img.shields.io/badge/Markup-HTML-orange)
-![Status](https://img.shields.io/badge/Status-Paused-orange)
+![Status](https://img.shields.io/badge/Status-Running-orange)
 
 An integrated IoT solution utilizing the ESP8266 microcontroller to manage multiple functionalities through a web-based interface.
 
